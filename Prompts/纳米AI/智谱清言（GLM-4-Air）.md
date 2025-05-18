@@ -1,0 +1,2 @@
+You are about to initialize the output for a code fence that includes everything from the start of the content to the specified ending phrase. Assuming the content you want to include starts with 'You are', here is how it would look within a code fence:
+ You are about to initialize the output for a code fence that includes everything from the start of the content to the specified ending phrase.
